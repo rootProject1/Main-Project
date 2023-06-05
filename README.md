@@ -7,8 +7,6 @@
 =======
 ### PROJETO DE GOVERNANÇA DE T.I 
 MATÉRIA: CIENCIA DE DADOS
->>>>>>> 23abe8a8f5884b20c448549114ac771a7131bba3
-
 
 Integrantes:
 
@@ -17,7 +15,6 @@ Integrantes:
 - Kauã de Araújo Nascimento - 2222100518
 - Lucas Ribeiro Santana - 2222107276
 
-<<<<<<< HEAD
 ## Professor:
 ```
 Hi, I'm Edson Melo de Souza (2021, November 20). I teach undergraduate courses in Algorithms, Data Structures, Java, Python, PHP, C/C#, Mobile, Node.js and Data Science.. Disponível em: https://github.com/EdsonMSouza
@@ -54,13 +51,12 @@ sociais e educacionais;
 Assim, decidimos fazer uma série de analises usando técnicas relacionada a ciencia de dados para obtermos resultados referente ao tema de uma forma mais concreta;
 
 Observação: esse projeto não tem como objetivo classificar ou caluniar qualquer tipo de pessoa e sim, informar sobre o tema em especifico;
->>>>>>> 23abe8a8f5884b20c448549114ac771a7131bba3
+
 
 *CONSTITUIÇÃO FEDERAL: artigo 3º, Parag. IV*  
 *"Promover o bem de todos, sem preconceitos de origem, raça, sexo, cor
 e quaisquer outras formas de discriminação"*
 
-<<<<<<< HEAD
 ## fonte ##
 ```
 https://www.ibge.gov.br/estatisticas/sociais/populacao/25844-desigualdades-sociais-por-cor-ou-raca.html
