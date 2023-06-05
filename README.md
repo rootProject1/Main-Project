@@ -64,7 +64,7 @@ https://www.ibge.gov.br/estatisticas/sociais/populacao/25844-desigualdades-socia
 ```
 Desigualdades Sociais por Cor ou Raça no Brasil 2ª edição, IBGE, 2022
 ```
-=======
->>>>>>> 23abe8a8f5884b20c448549114ac771a7131bba3
+
+
 
 
