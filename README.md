@@ -19,11 +19,11 @@ Hi, I'm Edson Melo de Souza (2021, November 20). I teach undergraduate courses i
 
 ## Conteúdo
 
-**taxa de desemprego por cor ou raça no brasil** 
+**Taxa de desemprego por cor ou raça no brasil** 
 
-sabemos que o brasil é um país diversificado populacionalmente com diversos tipos de raças presentes em nosso território nacional, essa questão racial se deu em conta a taxa de imigrantes de outros paises que se mantem presente de geração a geração, além de seu ciclo economico através do trabalho escravo, que se manteve presente por mais de 300 anos.
+Sabemos que o brasil é um país diversificado populacionalmente com diversos tipos de raças presentes em nosso território nacional, essa questão racial se deu em conta a taxa de imigrantes de outros paises que se mantem presente de geração a geração, além de seu ciclo economico através do trabalho escravo, que se manteve presente por mais de 300 anos.
 
-a partir dessa série de processos, acabou deixando uma certa consequência em nossa vulnerabilidade socioeconimica para a população como um todo, o nosso projeto tem como o objetivo analisar e mostar os principais fatores que ajudam a estabelecer o acesso desigual relacionado ao mercado de trabalho por cor ou raça, levantando caracteristicas
+A partir dessa série de processos, acabou deixando uma certa consequência em nossa vulnerabilidade socioeconimica para a população como um todo, o nosso projeto tem como o objetivo analisar e mostar os principais fatores que ajudam a estabelecer o acesso desigual relacionado ao mercado de trabalho por cor ou raça, levantando caracteristicas
 sociais e educacionais.
 
 Assim, decidimos fazer uma série de analises com o objetivo de realizar um levantamento
