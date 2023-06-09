@@ -29,9 +29,9 @@ sociais e educacionais.
 Assim, decidimos fazer uma série de analises com o objetivo de realizar um levantamento
 estatistico sobre a desegualdade racial referente ao mercado de trabalho no brasil, levando em conta aspectos:
 
-- sociais
-- educacionais
-- trabalhistas
+- Sociais
+- Educacionais
+- Trabalhistas
 
 Observação: esse projeto não tem como objetivo classificar ou caluniar qualquer tipo de raça e sim, informar sobre o tema em especifico;
 
@@ -39,7 +39,7 @@ Observação: esse projeto não tem como objetivo classificar ou caluniar qualqu
 *"Promover o bem de todos, sem preconceitos de origem, raça, sexo, cor
 e quaisquer outras formas de discriminação"*
 
-## fonte ##
+## Fontes ##
 ```
 https://www.ibge.gov.br/estatisticas/sociais/populacao/25844-desigualdades-sociais-por-cor-ou-raca.html
 ```
