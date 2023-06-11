@@ -7,7 +7,7 @@
 
 Integrantes:
 
-- Andre Cardoso do nascimento - 2222103842 
+- Andre Cardoso do Nascimento - 2222103842 
 - Breno dos Santos Borges - 2222107276
 - Kauã de Araújo Nascimento - 2222100518
 - Lucas Ribeiro Santana - 2222107276
@@ -29,9 +29,9 @@ sociais e educacionais.
 Assim, decidimos fazer uma série de analises com o objetivo de realizar um levantamento
 estatistico sobre a desegualdade racial referente ao mercado de trabalho no brasil, levando em conta aspectos:
 
-- sociais
-- educacionais
-- trabalhistas
+- Sociais
+- Educacionais
+- Trabalhistas
 
 Observação: esse projeto não tem como objetivo classificar ou caluniar qualquer tipo de raça e sim, informar sobre o tema em especifico;
 
