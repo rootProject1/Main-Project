@@ -7,7 +7,7 @@
 
 Integrantes:
 
-- Andre Cardoso do nascimento - 2222103842 
+- Andre Cardoso do Nascimento - 2222103842 
 - Breno dos Santos Borges - 2222107276
 - Kauã de Araújo Nascimento - 2222100518
 - Lucas Ribeiro Santana - 2222107276
