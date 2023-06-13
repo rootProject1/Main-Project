@@ -1,0 +1,10 @@
+Pre-requesitos: 
+=> ter uma conta google drive para armazear os arquivos CSV
+=> Ter o git instalado na maquina e previamente configurado
+
+Instruções:
+1 - acessar o repositorio 'https://github.com/rootProject1/Main-Project/tree/master' hospedado no github, na branch master
+2 - clicar no botão code e copiar o endereço https:
+3 - no terminal do git, clonar o repositorio com o comando git clone 'https://github.com/rootProject1/Main-Project/tree/master'
+4 - Entrar no diretorio do respositorio clonado e executar o comando 'explorer .'
+5 - Clicar no botão 'open with colab'
