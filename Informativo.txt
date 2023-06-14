@@ -8,5 +8,5 @@ Instruções:
 3 - no terminal do git, clonar o repositorio com o comando git clone 'https://github.com/rootProject1/Main-Project/tree/master'
 4 - Entrar no diretorio do respositorio clonado e executar o comando 'explorer .' para abrir uma nova janela na pasta
 5 - Novamente de volta ao respositorio online no github, abrir o arquivo 'Dificuldade_de_acesso_a__educação_e_mercado_de_trabalho_pelos_negros_no_brasil_em_2021_(modified_13_06).ipynb' e clicar no botão 'open with colab'
-6 - com o colab aberto junto ao arquivo, clicar no icone com pasta para abrir a aba 'ficheiro' e clicar no botão para upar arquivos ao colab. Selecionar TODOS os arquivos .csv da pasta 'DADOS'
+6 - com o colab aberto junto ao arquivo, clicar no icone com pasta para abrir a aba 'ficheiro' e clicar no botão para upar arquivos ao colab. Navegar até a pasta onde o repositorio foi baixado e selecionar TODOS os arquivos .csv da pasta 'DADOS'
 7 - Realizar executão dos scripts na sequencia, é importante primeiro executar os scripts que importam a biblioteca
